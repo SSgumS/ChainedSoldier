@@ -11,5 +11,5 @@ description: |
   Scanlation by SSgumS.
 artist: Takemura Youhei
 author: Takahiro
-cover: https://raw.githubusercontent.com/SSgumS/ChainedSoldier/main/Covers/Main.webp
+cover: https://raw.githubusercontent.com/SSgumS/ChainedSoldier/main/cover.webp
 groups: SSgumS

@@ -1,1 +1,5 @@
 content
+
+# Kaguya secrets — never commit
+kaguya/github.txt
+kaguya/api_key.txt
