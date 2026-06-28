@@ -1,0 +1,15 @@
+title: Chained Soldier
+description: |
+  Chained Soldier (Mato Seihei no Slave) — English text on uncensored Japanese art.
+
+  This release combines the uncensored JP raws with the English translation by transferring the
+  English balloon text onto the uncensored artwork at the pixel level — no OCR, no re-typesetting —
+  so the original balloon layout and art are preserved exactly.
+
+  Chapters are bundled per volume, including any fractional / uncensored variant chapters in range.
+
+  Scanlation by SSgumS.
+artist: Takemura Youhei
+author: Takahiro
+cover: https://raw.githubusercontent.com/SSgumS/ChainedSoldier/main/Covers/Main.webp
+groups: SSgumS
